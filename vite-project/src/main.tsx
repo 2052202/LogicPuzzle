@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 
 function Game() {
   // Points to your public directory folder
-  const localGameUrl = "/learn.html";
+  const localGameUrl = "./learn.html";
 
   return (
     <iframe
